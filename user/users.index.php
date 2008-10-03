@@ -1,0 +1,5 @@
+<?php if(!defined('ZVH')) {	exit('System Halt');}?>
+netroby|748580f4c8da068284440f2c868fe61e|1222950183|online|
+ghfhfg|2510c39011c5be704182423e3a695e91|1212269236|offline|
+一个人睡|5583413443164b56500def9a533c7c70|1212294462|offline|
+hgfh|c840ea0c819e77f6649950f23b899e6b|1212296253|offline|

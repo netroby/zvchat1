@@ -1,0 +1,33 @@
+ZVCHAT是一个轻便的聊天室程序。
+简单实用是它的特点。
+更新的版本正在进行开发当中。
+<b>1.0更新记录</b>
+改善刷新效果，优化显示
+存储结构改善，现在更快了。
+负载能力也有很大的提高
+细节的改善
+
+zvchat is a simple chat programm.
+fast and easy to use is it`s position.
+the newer version is under dev
+<b> 1.0 what`s new</b>
+fix refresh problem.
+optimize   the view effect
+optimize  the storage system.
+Load capacity has been greatly improved.
+To improve the lot of details
+
+
+语言文件在目录下面english和chinese两个
+文件夹内。
+只需把lang.php拷贝到include文件夹下。
+language file is under the english and 
+chinese folder.
+only to copy lang.php to include folder.
+
+开发者主页(dev website>:
+http://www.netroby.cn
+联络方式(contact):
+netroby@live.cn
+
+<a href="http://www.eterme.cn/donate">更多信息</a>

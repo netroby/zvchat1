@@ -1,0 +1,2 @@
+<a href="#" onclick="pcct('netroby')" title="2008-10-02 12:22:59"><span style="color:#800000">netroby</span></a>说<a href="#" onclick="pcct('大家')" title="2008-10-02 12:22:59"><span style="color:#0080ff">大家</span></a>对:<span style="color:#000080">hello<br />
+</span><br />
